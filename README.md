@@ -9,4 +9,6 @@ $ cd ~/catkin_ws/src
 
 $ git clone https://github.com/alithethird/gazebo_magnet_force.git
 
-$ catkin_make -C ~/catkin_ws
+$ cd ~/catkin_ws
+
+$ catkin_make --only-pkg-with-deps gazebo_magnet_force
