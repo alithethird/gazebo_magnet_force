@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ali/gazebo_magnet_plugin_ws/src/gazebo_magnet_force/cmake-build-debug/devel/setup.sh
